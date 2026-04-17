@@ -1,0 +1,7 @@
+node_modules/
+dist/
+assets/
+sw.js
+workbox-*.js
+.remember/
+*.pdf
